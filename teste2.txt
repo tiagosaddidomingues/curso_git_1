@@ -1,4 +1,8 @@
 h
 g
 s
+<<<<<<< Updated upstream
 w
+=======
+v
+>>>>>>> Stashed changes
